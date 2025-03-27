@@ -1,4 +1,5 @@
  //CH 2 3 
+// https://www.farnell.com/datasheets/3217178.pdf
 char buffer[64];
 
 void UART3_Init_Config(unsigned long baudrate) {
